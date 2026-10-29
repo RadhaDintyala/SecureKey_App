@@ -1,0 +1,6 @@
+{
+  "name": "SecureKey IoT Smart Lock & Intrusion System",
+  "description": "Production MERN stack application for SecureKey IoT smart lock and intrusion alarm system with ESP32 integration, PIN keypad, real-time audit logs, and instant email dispatches.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
